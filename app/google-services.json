@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145082411351",
+    "project_id": "greenmart-5b7ef",
+    "storage_bucket": "greenmart-5b7ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145082411351:android:1c401afdbdcf89886eb612",
+        "android_client_info": {
+          "package_name": "fpoly.ph45160.ph45160_and103_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD4PdJfaj9iUE6jbTJOiOrHtzhrxrWIIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
